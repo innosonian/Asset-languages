@@ -20,6 +20,9 @@
         "SignIn": "Connection",
         "TrialSignIn" : "Version d'essaie sans connection"
     },
+    "DownloadContent": {
+        "Downloading": "Le téléchargement de fichiers videos\nprend plusieurs minutes"
+    },
     "MenuHome": {
         "Title": "Accueil",
         "BodyMessage" : "Toucher l'icône adulte ou bébé pour connecter le(s) mannequin(s)",

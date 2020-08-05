@@ -20,6 +20,9 @@
         "SignIn": "Sign In",
         "TrialSignIn" : "Use trial without log-in"
     },
+    "DownloadContent": {
+        "Downloading": "Download video files\nIt takes few minutes"
+    },
     "MenuHome": {
         "Title": "Home",
         "BodyMessage" : "Touch adult or baby icon to connect manikin",

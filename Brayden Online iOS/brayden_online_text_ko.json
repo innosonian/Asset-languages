@@ -20,6 +20,9 @@
         "SignIn": "로그인",
         "TrialSignIn" : "로그인 없이 훈련하기"
     },
+    "DownloadContent": {
+        "Downloading": "비디오 파일을 다운로드합니다\n이 작업은 몇 분이 소요됩니다"
+    },
     "MenuHome": {
         "Title": "홈",
         "BodyMessage" : "성인 또는 아기 아이콘을 터치해 마네킹을 연결하십시오",
