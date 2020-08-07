@@ -110,7 +110,7 @@
         "NoOfCompressions" : "5\nNb. de\nCompressions",
         "VentilationVolume" : "7\nVolume des\nVentilation",
         "VentilationRate" : "8\nFrequence de\nVentilation",
-        "RescueNo." : "Reanim No.",
+        "RescueNo" : "Reanim No.",
         "RescueVolume" : "Reanime volume",
         "Good" : "Bien",
         "TooShallow" : "Pas assez profond",
