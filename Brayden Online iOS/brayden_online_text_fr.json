@@ -75,7 +75,7 @@
         "NoOfCompressions" : "Nb. de\nCompressions",
         "VentilationVolume" : "Volune\nde Ventilation",
         "VentilationFrequency" : "Frequence\n de ventilation",
-        "RescueNo." : "Reanim No.",
+        "RescueNo" : "Reanim No.",
         "RescueVolume" : "Reanim volume"
     },
     "DetailedResultPage" :{

@@ -110,7 +110,7 @@
         "NoOfCompressions" : "5\nNo. of\nCompressions",
         "VentilationVolume" : "7\nVentilation\nVolume",
         "VentilationRate" : "8\nVentilation\nrate",
-        "RescueNo." : "Rescue No.",
+        "RescueNo" : "Rescue No.",
         "RescueVolume" : "Rescue volume",
         "Good" : "Good",
         "TooShallow" : "Too Shallow",

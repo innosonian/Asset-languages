@@ -75,7 +75,7 @@
         "NoOfCompressions" : "압박 횟수",
         "VentilationVolume" : "호흡량",
         "VentilationFrequency" : "호흡 빈도",
-        "RescueNo." : "구조 호흡 횟수",
+        "RescueNo" : "구조 호흡 횟수",
         "RescueVolume" : "구조 호흡 호흡량"
     },
     "DetailedResultPage" :{
