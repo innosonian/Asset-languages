@@ -76,7 +76,9 @@
         "VentilationVolume" : "Volune\nde Ventilation",
         "VentilationFrequency" : "Frequence\n de ventilation",
         "RescueNo" : "Reanim No.",
-        "RescueVolume" : "Reanim volume"
+        "RescueVolume" : "Reanim volume",
+        "Pass": "Passed",
+        "Fail": "Try again"
     },
     "DetailedResultPage" :{
         "Title" : "Résultats detaillés",

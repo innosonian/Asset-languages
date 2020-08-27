@@ -76,7 +76,9 @@
         "VentilationVolume" : "호흡량",
         "VentilationFrequency" : "호흡 빈도",
         "RescueNo" : "구조 호흡 횟수",
-        "RescueVolume" : "구조 호흡 호흡량"
+        "RescueVolume" : "구조 호흡 호흡량",
+        "Pass": "합격",
+        "Fail": "재시도"
     },
     "DetailedResultPage" :{
         "Title" : "상세 결과",

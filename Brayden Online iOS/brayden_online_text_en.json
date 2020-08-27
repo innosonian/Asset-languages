@@ -21,7 +21,7 @@
         "TrialSignIn" : "Use trial without log-in"
     },
     "DownloadContent": {
-        "Downloading": "Download video files\nIt takes few minutes"
+        "Downloading": "Download video files\nIt takes a few minutes"
     },
     "MenuHome": {
         "Title": "Home",
@@ -76,7 +76,9 @@
         "VentilationVolume" : "Ventilation\nVolume",
         "VentilationFrequency" : "Ventilation\nfrequency",
         "RescueNo" : "Rescue No.",
-        "RescueVolume" : "Rescue volume"
+        "RescueVolume" : "Rescue volume",
+        "Pass": "Passed",
+        "Fail": "Try again"
     },
     "DetailedResultPage" :{
         "Title" : "Detailed results",

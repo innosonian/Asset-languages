@@ -1,0 +1,205 @@
+{
+    "CarrouselPages": {
+        "YouCanConnectTo": "Вы можете подключиться", 
+        "TouchIconToConnect": "Дотроньтесь до иконки, чтобы подключиться",
+         "ChooseWhatYouWantToTrain": "Bыберете программу обучения", 
+        "ContinueButton" : "Продолжить"
+
+    },
+       "StartPage": { 
+        "Start": "Начало”, 
+        "PlanMemberLogin": "If you are a Plan member, please click here." “Если у вас есть подписка, нажмите здесь ».
+    },
+       "AdminLoginPage": {
+        "ClientID": "Client ID", “Идентификация клиента”
+        "Code": "Code", “Kod”
+        "SignIn": "Войти в систему" 
+    },
+     "UserLoginPage": {
+        "Email": "E-Mail", “Адрес электронной почты”
+        "Password": "Ввести пароль"
+        "SignIn": "Sign In", "Войти в систему"
+        "TrialSignIn" : "Use trial without log-in" “Использовать пробную версию без входа в систему”
+    },
+    "DownloadContent": {
+        "Downloading": "Download video files\nIt takes few minutes" “Скачивание видеофайлов займет несколько минут”
+    },
+    "MenuHome": {
+        "Title": "Home", “Домашняя страница”
+        "BodyMessage" : "Дотроньтесь до иконки взрослого или ребенка, чтобы подключиться  к манекену”
+        "LogOut" : "Выход из системы”
+    }, 
+    "MenuManikinConnectionsPopUp": {
+        "Title": "Manikin Connections" “Соединения с манекенами”
+    },
+    "FirmwareUpdate": {
+        "Title": "Firmware update", “Обновление прошивки”
+        "NoteEndTop": " Update completed.", “Обновление завершено”
+        "NoteEndBottom": " Please restart the Manikin" “Пожалуйста, перезапустите манекен”
+    },
+    "TrainningHistoryPage" : {
+        "Title" : "Training History", “История обучения”
+        "SyncButton"  : "Sync all", “Все синхронизировать”
+        "IDTitle"  : "ID", “Идентификация”
+        "DateTimeTitle" : "Date / Time", “Дата/время”
+        "OperationTitle" : "Operation", “Действие”
+        "ScoreTitle" : "Score", “Оценка”
+        "OptionsTitle" : "Options" “Опции”
+    },
+    "RealTimeTrainingPage" :{ “Страница обучения в реальном времени”
+    "NoOfCompressions" : "No. of compressions", “Количество компрессий”
+    "Cycle" : "Cycle", “Цикл”
+    "CPREventPeriod" : "CPR Event Period", “Период проведения СЛР”
+    "VentilationVolume" : "Ventilation Volume", “Объем вентиляций”
+    "CompPerTime" : "Comp. depth * Comp. rate / per time", “Глубина компрессий / частота компрессий / за раз”
+    "CompOverall" : "Comp. depth * Comp. rate / in overall", “Глубина компрессий / частота компрессий в целом
+    "FingerPosition" : "Finger Position", “Положение пальца”
+    "HandPosition" : "Hand Position", “Положение руки”
+    "StartButton" : "Start training", “Начать обучение”
+    "StopButton" : "Stop training", “Начать обучение”
+    "StopPopUpText" : "Do you want to stop this training session ?", “Вы хотите остановить обучение?”
+    "ResultCalculatingPopOver" : "Results Calculating", “Подсчет результатов”
+    "Slow" : "Slow", “Медленно”
+    "Deep" : "Deep", “Глубоко”
+    "Fast" : "Fast", “Быстро”
+    "Shallow" : "Shallow" “Поверхностно”
+    },
+    "OverallResultPage" : {
+        "Title" : "Overall\nPerformance", “Общий результат”
+        "Score" : "Score", “Оценка”
+        "FingerPosition" : "Finger\nposition", ““Положение пальца”
+        "HandPosition" : "Hand\nposition", “Положение руки”
+        "ScoreOfCCF" : "Score of\nCCF", ““Оценка застойной сердечной недостаточности”
+        "CompressionRate" : "Compression\nrate", “Частота компрессий”
+        "CompressionRelease" : "Compression\nrelease", “Высвобождение рук”
+        "CompressionDepth" : "Compression\ndepth", “Глубина компрессий”
+        "NoOfCompressions" : "No. of\nCompressions", “Количество компрессий”
+        "VentilationVolume" : "Ventilation\nVolume",  “Объем вентиляций”
+        "VentilationFrequency" : "Ventilation\nfrequency", “Частота вентиляций”
+        "RescueNo" : "Rescue No.", “Количество спасательных дыханий”
+        "RescueVolume" : "Rescue volume" “Объем спасательных дыханий”
+    },
+    "DetailedResultPage" :{
+        "Title" : "Detailed results", “Подробные результаты”
+        "SummaryTabTitle" : "Summary", “Общий итог”
+        "ByCPRTabTitle" :"By CPR metric criteria", “По метрическим критериям СЛР”
+        "ByCycleTabTitle" : "By Cycle", “По циклу”
+        "OverallPerformance" : "Overall Performance", “Общий результат”
+        "Duration" : "Duration", “Продолжительность”
+        "Cycle" : "Cycle", “Цикл”
+        "CCF" : "CCF", “Застойная сердечная недостаточность”
+        "Compressions" : "Compressions", “Компрессии”
+        "AvgDepth" : "Avg. Depth", “Средняя глубина”
+        "AvgRate" : "Avg. Rate", “Средняя скорость”
+        "Count" : "Count", “Счет”
+        "AvgTimeOff" : "Avg. Time-off", “Перерыв в среднем”
+        "FingerPositionAccuracy" : "Finger position accuracy", “Точность положения пальцев”
+        "HandPositionAccuracy" : "Hand position accuracy", “Точность положения руки”
+        "RescueVentilations" : "Rescue Ventilations", “Спасательная вентиляция“
+        "Ventilations" : "Ventilations", “Вентиляции”
+        "AvgVolume" : "Avg. Volume", “Средний объем”
+        "Period" : "Period", “Промежуток времени”
+        "Total" : "Total", “Общий счет”
+        "AvgSpeed" : "Avg. Speed", “Средняя скорость”
+        "TempGraphText" : "More information (quality of CPR) is available via 'Brayden Online Expert'", “Более подробную информацию (качество СЛР) можно получить через «Brayden Online Expert» »
+        "FingerPosition" : "6\nFinger position", “Положение пальцев”
+        "HandPosition" : "6\nHand position", ““Положение руки”
+        "ScoreOfCCF" : "4\nScore of\nCCF", “Оценка застойной сердечной недостаточности”
+        "CompressionRate" : "3\nCompression\nrate", “Частота компрессий”
+        "CompressionRelease" : "2\nCompression\nrelease", ““Высвобождение рук”
+        "CompressionDepth" : "1\nCompression\ndepth", “Глубина компрессий”
+        "NoOfCompressions" : "5\nNo. of\nCompressions", ““Количество компрессий”
+        "VentilationVolume" : "7\nVentilation\nVolume", “Объем вентиляций”
+        "VentilationRate" : "8\nVentilation\nrate", “Количество вентиляций”
+        "RescueNo" : "Rescue No.", “Количество спасательных дыханий”
+        "RescueVolume" : "Rescue volume", “Объем спасательных дыханий”
+        "Good" : "Good", “Хорошо”
+        "TooShallow" : "Too Shallow", “Слишком поверхностно”
+        "TooDeep" : "Too deep", “Слишком глубоко”
+        "TooFast" : "Too fast", “Слишком быстро”
+        "TooSlow" :"Too slow ", “Слишком медленно”
+        "TooFew" : "Too few", “Слишком мало”
+        "Toomany" : "Too many", “Слишком много”
+        "TooLittle" : "Too Little", “Недобор”
+        "TooMuch" : "Too Much", “Перебор”
+        "Incorrect" : "Incorrect", “Неверно”
+        "IncompleteRelease" : "Incomplete release", “Неполное освобождение рук”
+        "OverallScore" : "Overall Score" “Общая оценка”
+    },
+    "SettingPage" : { 
+        "Title" : "Setting", “Настройка”
+        "Manufacture" : "Manufacture", “Производство”
+        "Language" : "Language", “Язык”
+        "LanguageValue" : "English", "English"
+        "AppVersion" : "Application Version", “Версия приложения”
+        "ApplyButton" : "Apply new menu", “Применить новое меню”
+        "SwitchButton" : "Switch client", “Сменить пользователя”
+        "HowToSeeRecords" : "How to see records", “Как посмотреть записи”
+        "AllLocalRecords" : "All local records", “ “Все локальные записи”
+        "Deactivated" : "Deactivated", “Деактивировано”
+        "UserConnectSwitchButton" : "Users can connect or disconnect manikins" “Пользователи могут подключать или отключать манекены "
+    },
+    "CheckDeviceStatus": {
+        "WifiConnRequired": "You're offline. Check your internet connection.", “Вы не в сети, Проверьте подключение к Интернету. "
+        "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting." “Bluetooth отключен. Проверьте настройки bluetooth”    },
+    "PopupPrompt": {
+        "PopupTermOK": "OK", “Хорошо”
+        "PopupTermConfim": "Confirm", “Подтвердить”
+        "PopupTermCancel": "Cancel", “Отменить”
+        "PopupTermConnect": "Connect", “Подключить”
+        "PopupTermSwitch": "Switch", “Переключить”
+        "PopupTermEnd": "End", “Закончить”
+        "PopupTermReconnect": "Reconnect", “Заново подключиться”
+        "SignInErrorTitle": "Sign In Error", “Ошибка при введении”
+        "SignInConnErrorContent": "You are not connected to the Internet.\nPlease check your network connection and try again.", “Вы не подключены к Интернету. \ Проверьте подключение к сети и повторите попытку”
+        "SignInAuthErrorContent": "Please verify your username/password and try again.", “Пожалуйста, подтвердите свое имя пользователя / пароль и попробуйте еще раз”
+        "BLEConnRequiredTitle": "Manikin Connection Required", “"Требуется подключение манекена”
+        "BLEConnRequiredAdultTitle": "Adult Manikin Connection Required", “Требуется подключение взрослого манекена”
+        "BLEConnRequiredChildTitle": "Child Manikin Connection Required", “Требуется подключение детского манекена”
+        "BLEConnRequiredInfantTitle": " Infant Manikin Connection Required", “Требуется подключение младенческого манекена”
+        "BLEConnRequiredAdultContent": "Please connect adult manikin for the selected skills check.", “Подключите взрослый манекен для проверки выбранных навыков”
+        "BLEConnRequiredChildContent": "Please connect child manikin for the selected skills check.", “Подключите детский манекен для проверки выбранных навыков”
+        "BLEConnRequiredInfantContent": "Please connect infant manikin for the selected skills check.", “Подключите младенческий манекен для проверки выбранных навыков.”
+        "ConnectatbleManikinList": "Connectable manikin", “Подключаемый манекен”
+        "AppUpdateNeededTitle": "App Update Needed", “Требуется обновление приложения”
+        "AppUpdateNeededContent": "Update 'Resuscitation Skills' for the most accurate results.", “Обновите «Навыки реанимации» для получения наиболее точных результатов.”
+        "BLEDisconnectedTitle": "Manikin Disconnected", “Манекен отключен”
+        "BLEDisconnectedContent": "Please check the batteries and bluetooth connection and try again.", “Пожалуйста, проверьте батарейки и соединение Bluetooth и попробуйте еще раз”
+        "EndSkillsCheckBProTitle": "Brayden Pro", “Брайден Про”
+        "EndSkillsCheckAdultTitle": "Brayden Pro Adult", “Брайден Про Взрослый”  
+        "EndSkillsCheckChildTitle": "Brayden Pro Child", “Брайден Про Ребенок” 
+        "EndSkillsCheckInfantTitle": "Brayden Infant", ““Брайден младенец”
+        "EndSkillsCheckTitle": "Are you sure you want to end this skills check?", “Вы уверены, что хотите завершить проверку навыков?”
+        "NetErrUploadFailTitle": "Upload Error", “Ошибка загрузки”
+        "NetErrUploadFailContent": "Upload train content failure. Please check the network connection", “Ошибка загрузки содержимого. Пожалуйста, проверьте сетевое соединение”
+        "NetErrCommonTitle": "Error", “Ошибка”
+        "NetErrCommonContent": "Failed to get result. Please check the network connection" “Не удалось получить результат. Пожалуйста, проверьте сетевое соединение”
+    },
+    "Report": {
+        "OverallResult": " Общий результат”
+    },
+    "ExceptionCompletionAPI": {
+        "AuthenticationFailed": "Authentication Failed.", “Ошибка при идентификации”
+        "IncorrectCompletionDetails": "Incorrect Completion Details.", “Неверные данные об оценке”
+        "GivenOrganizationIdWasIncorrect.": "The given Organization Id was incorrect.", “Указанный идентификатор организации был неверным”
+        "hStreamIdWasNotFoundIncorrect": "The hStream Id was not found/incorrect.", “Идентификатор hStream не найден / неверен.”
+        "hStreamIdIsNotMappedWithAnyUser.": "The hStream Id is not mapped with any user."
+    }, “Идентификатор hStream не сопоставлен ни с одним пользователем”
+    "ExceptionOpenSkillsAPI": {
+        "AuthenticationFailed": "Authentication Failed.", “Ошибка при идентификации”
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
+“Страничка электронного портфолио не найдена / неверна”
+        "TheManikinDeviceIdNotFoundIncorrect": "The manikin device id not found/incorrect.", “Идентификатор устройства манекена не найден / неверен.",
+        "NoUserDetailsFoundInUserProfile.": "No User details found in UserProfile.", “В профиле пользователя не найдено никаких данных о пользователе.”
+        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "No open skills available for the ePortfolio account." “В страничке Portfolio нет открытых навыков "”
+    },
+    "ExceptionFileDocumentAPI": {
+        "AuthenticationFailed.": "Authentication Failed.", “Ошибка при идентификации”
+        "GivenFilestoreIdIsIncorrect": "The given filestore Id is incorrect.", “Указанный идентификатор хранилища файлов неверен.”
+        "GivenInstitutionIdIsIncorrect": "The given institution Id is incorrect.", “"Указан неверный идентификатор учреждения.”
+        "GivenOrganizationIdIsIncorrect": "The given Organization Id is incorrect.", “Указанный идентификатор организации неверен.”
+        "NoDocumentDetailsFoundForTheGivenFilestoreID": "No Document Details found for the given filestore ID.", “Сведения о документе не найдены для данного идентификатора хранилища файлов”
+        "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.", “Страничка электронного портфолио не найдена / неверна”
+        "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.", “Не удалось получить сведения о хранилище файлов.”
+        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured." В данном отделении организации виртуальный каталог не настроен”    }
+}
