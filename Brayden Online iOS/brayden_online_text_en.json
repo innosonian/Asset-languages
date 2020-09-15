@@ -25,7 +25,9 @@
     },
     "MenuHome": {
         "Title": "Home",
+        "Subtitle" : "Compression, ventilation, or full CPR training\noptions with real-time feedback\n\nBegin the CPR assessment when you are ready",
         "BodyMessage" : "Touch adult or baby icon to connect manikin",
+        "ExitButton" : "Exit",
         "LogOut" : "Are you sure\nyou want to log out?"
     }, 
     "MenuManikinConnectionsPopUp": {
@@ -75,6 +77,8 @@
         "NoOfCompressions" : "No. of\nCompressions",
         "VentilationVolume" : "Ventilation\nVolume",
         "VentilationFrequency" : "Ventilation\nfrequency",
+        "AvgDepth" : "Avg. Depth",
+        "AvgVolume" : "Avg. Volume",
         "RescueNo" : "Rescue No.",
         "RescueVolume" : "Rescue volume",
         "Pass": "Passed",
@@ -89,6 +93,7 @@
         "Duration" : "Duration",
         "Cycle" : "Cycle",
         "CCF" : "CCF",
+        "OverallScore" : "Overall Score"
         "Compressions" : "Compressions",
         "AvgDepth" : "Avg. Depth",
         "AvgRate" : "Avg. Rate",
@@ -120,7 +125,7 @@
         "TooFast" : "Too fast",
         "TooSlow" :"Too slow ",
         "TooFew" : "Too few",
-        "Toomany" : "Too many",
+        "TooMany" : "Too many",
         "TooLittle" : "Too Little",
         "TooMuch" : "Too Much",
         "Incorrect" : "Incorrect",
@@ -140,6 +145,12 @@
         "Deactivated" : "Deactivated",
         "UserConnectSwitchButton" : "Users can connect or disconnect manikins"
     },
+    "VideoPage" : {
+        "SkipButton" : "Skip"
+    },
+    "InformationPage" :{
+        "Title" : "Information"
+    }
     "CheckDeviceStatus": {
         "WifiConnRequired": "You're offline. Check your internet connection.",
         "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
