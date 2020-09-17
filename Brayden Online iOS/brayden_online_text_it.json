@@ -20,9 +20,14 @@
         "SignIn": "Accedi",
         "TrialSignIn": "Usa la versione di prova senza accedere"
     },
+    "DownloadContent": {
+        "Downloading": "##########"
+    },
     "MenuHome": {
         "Title": "Casa",
+        "Subtitle": "##########",
         "BodyMessage": "Tocca l'icona di un adulto o un bambino per collegare il manichino",
+        "ExitButton": "##########",
         "LogOut": "Sei sicuro \n di voler uscire?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -72,8 +77,13 @@
         "NoOfCompressions": "No. di\nCompressioni",
         "VentilationVolume": "Ventilazione\nVolume",
         "VentilationFrequency": "Ventilazione\nfrequenza",
-        "RescueNo.": "Salvataggio No.",
-        "RescueVolume": "Salvataggio volume"
+        "AvgDepth": "##########",
+        "AvgVolume": "##########",
+        "RescueNo": "##########",
+        "RescueVolume": "Salvataggio volume",
+        "Pass": "##########",
+        "Fail": "##########",
+        "RescueNo.": "Salvataggio No."
     },
     "DetailedResultPage": {
         "Title": "Risultati dettagliati",
@@ -84,6 +94,7 @@
         "Duration": "Durata",
         "Cycle": "Periodo",
         "CCF": "CCF",
+        "OverallScore": "Generali Punto",
         "Compressions": "Compressioni",
         "AvgDepth": "Avg. Depth",
         "AvgRate": "Avg. Rate",
@@ -107,7 +118,7 @@
         "NoOfCompressions": "5\nNo. di\nCompressioni",
         "VentilationVolume": "7\nVentilazione\nVolume",
         "VentilationRate": "8\nVentilazione\nritmo",
-        "RescueNo.": "Salvataggio No.",
+        "RescueNo": "##########",
         "RescueVolume": "Salvataggio volume",
         "Good": "Bene",
         "TooShallow": "Troppo superficiale",
@@ -115,12 +126,13 @@
         "TooFast": "Troppo veloce",
         "TooSlow": "Troppo lento ",
         "TooFew": "Troppo pochi",
-        "Toomany": "Troppi",
+        "TooMany": "##########",
         "TooLittle": "Troppo piccolo",
         "TooMuch": "Troppo",
         "Incorrect": "Errato",
         "IncompleteRelease": "Incompleto rilascioe",
-        "OverallScore": "Generali Punto"
+        "RescueNo.": "Salvataggio No.",
+        "Toomany": "Troppi"
     },
     "SettingPage": {
         "Title": "Impostazione",
@@ -134,6 +146,12 @@
         "AllLocalRecords": "Tutti i record locali",
         "Deactivated": "Disattivato",
         "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini"
+    },
+    "VideoPage": {
+        "SkipButton": "##########"
+    },
+    "InformationPage": {
+        "Title": "##########"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Sei offline. Controlla la connessione a Internet.",
@@ -200,4 +218,3 @@
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
     }
 }
-  

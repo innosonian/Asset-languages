@@ -1,42 +1,44 @@
 {
-    "CarrouselPages": {
+   "CarrouselPages": {
        "YouCanConnectTo": "Вы можете подключиться",
        "TouchIconToConnect": "Дотроньтесь до иконки, чтобы подключиться",
        "ChooseWhatYouWantToTrain": "Bыберете программу обучения",
        "ContinueButton": "Продолжить"
-    },
-    "StartPage": {
+   },
+   "StartPage": {
        "Start": "Начало",
        "PlanMemberLogin": "Если у вас есть подписка, нажмите здесь »"
-    },
-    "AdminLoginPage": {
+   },
+   "AdminLoginPage": {
        "ClientID": "Идентификация клиента",
        "Code": "Kod",
        "SignIn": "Войти в систему"
-    },
-    "UserLoginPage": {
+   },
+   "UserLoginPage": {
        "Email": "Адрес электронной почты",
        "Password": "Ввести пароль",
        "SignIn": "Войти в систему",
        "TrialSignIn": "Использовать пробную версию без входа в систему"
-    },
-    "DownloadContent": {
+   },
+   "DownloadContent": {
        "Downloading": "Скачать видеофайлы\n Это займет несколько минут"
-    },
-    "MenuHome": {
+   },
+   "MenuHome": {
        "Title": "Домашняя страница",
+       "Subtitle": "##########",
        "BodyMessage": "Дотроньтесь до иконки взрослого или ребенка, чтобы подключиться  к манекену",
+       "ExitButton": "##########",
        "LogOut": "Выход из системы"
-    },
-    "MenuManikinConnectionsPopUp": {
+   },
+   "MenuManikinConnectionsPopUp": {
        "Title": "Соединения с манекенами"
-    },
-    "FirmwareUpdate": {
+   },
+   "FirmwareUpdate": {
        "Title": "Обновление прошивки",
        "NoteEndTop": "Обновление завершено",
        "NoteEndBottom": "Пожалуйста, перезапустите манекен"
-    },
-    "TrainningHistoryPage": {
+   },
+   "TrainningHistoryPage": {
        "Title": "История обучения",
        "SyncButton": "Все синхронизировать",
        "IDTitle": "Идентификация",
@@ -44,8 +46,8 @@
        "OperationTitle": "Действие",
        "ScoreTitle": "Оценка",
        "OptionsTitle": "Опции"
-    },
-    "RealTimeTrainingPage": {
+   },
+   "RealTimeTrainingPage": {
        "NoOfCompressions": "Количество компрессий",
        "Cycle": "Цикл",
        "CPREventPeriod": "Период проведения СЛР",
@@ -62,8 +64,8 @@
        "Deep": "Глубоко",
        "Fast": "Быстро",
        "Shallow": "Поверхностно"
-    },
-    "OverallResultPage": {
+   },
+   "OverallResultPage": {
        "Title": "Общий \n результат",
        "Score": "Оценка",
        "FingerPosition": "Положение\n пальца",
@@ -75,10 +77,14 @@
        "NoOfCompressions": "Количество \nкомпрессий",
        "VentilationVolume": "Вентиляция \nOбъем",
        "VentilationFrequency": "Вентиляция\nЧастота",
+       "AvgDepth": "##########",
+       "AvgVolume": "##########",
        "RescueNo": "Количество спасательных дыханий",
-       "RescueVolume": "Объем спасательных дыханий"
-    },
-    "DetailedResultPage": {
+       "RescueVolume": "Объем спасательных дыханий",
+       "Pass": "##########",
+       "Fail": "##########"
+   },
+   "DetailedResultPage": {
        "Title": "Подробные результаты",
        "SummaryTabTitle": "Общий итог",
        "ByCPRTabTitle": "По метрическим критериям СЛР",
@@ -87,6 +93,7 @@
        "Duration": "Продолжительность",
        "Cycle": "Цикл",
        "CCF": "Застойная сердечная недостаточность",
+       "OverallScore": "Общая оценка",
        "Compressions": "Компрессии",
        "AvgDepth": "Средняя глубина",
        "AvgRate": "Средняя скорость",
@@ -118,14 +125,14 @@
        "TooFast": "Слишком быстро",
        "TooSlow": "Слишком медленно",
        "TooFew": "Слишком мало",
-       "Toomany": "Слишком много",
+       "TooMany": "##########",
        "TooLittle": "Недобор",
        "TooMuch": "Перебор",
        "Incorrect": "Неверно",
        "IncompleteRelease": "Неполное освобождение рук",
-       "OverallScore": "Общая оценка"
-    },
-    "SettingPage": {
+       "Toomany": "Слишком много"
+   },
+   "SettingPage": {
        "Title": "Настройка",
        "Manufacture": "Производство",
        "Language": "Язык",
@@ -137,12 +144,18 @@
        "AllLocalRecords": "Все локальные записи",
        "Deactivated": "Деактивировано",
        "UserConnectSwitchButton": "Пользователи могут подключать или отключать манекены"
-    },
-    "CheckDeviceStatus": {
+   },
+   "VideoPage": {
+       "SkipButton": "##########"
+   },
+   "InformationPage": {
+       "Title": "##########"
+   },
+   "CheckDeviceStatus": {
        "WifiConnRequired": "Вы не в сети, Проверьте подключение к Интернету.",
        "BLEConnRequired": "Bluetooth отключен. Проверьте настройки bluetooth."
-    },
-    "PopupPrompt": {
+   },
+   "PopupPrompt": {
        "PopupTermOK": "Хорошо",
        "PopupTermConfim": "Подтвердить",
        "PopupTermCancel": "Отменить",
@@ -174,25 +187,25 @@
        "NetErrUploadFailContent": "Ошибка загрузки содержимого. Пожалуйста, проверьте сетевое соединение",
        "NetErrCommonTitle": "Ошибка",
        "NetErrCommonContent": "Не удалось получить результат. Пожалуйста, проверьте сетевое соединение"
-    },
-    "Report": {
+   },
+   "Report": {
        "OverallResult": ""
-    },
-    "ExceptionCompletionAPI": {
+   },
+   "ExceptionCompletionAPI": {
        "AuthenticationFailed": "Ошибка при идентификации",
        "IncorrectCompletionDetails": "Неверные данные об оценке",
        "GivenOrganizationIdWasIncorrect.": "Указанный идентификатор организации был неверным",
        "hStreamIdWasNotFoundIncorrect": "Идентификатор hStream не найден / неверен",
        "hStreamIdIsNotMappedWithAnyUser.": "Идентификатор hStream не сопоставлен ни с одним пользователем"
-    },
-    "ExceptionOpenSkillsAPI": {
+   },
+   "ExceptionOpenSkillsAPI": {
        "AuthenticationFailed": "Ошибка при идентификации",
        "TheEPortfolioAccountNotFoundIncorrect": "Страничка электронного портфолио не найдена / неверна",
        "TheManikinDeviceIdNotFoundIncorrect": "Идентификатор устройства манекена не найден / неверен",
        "NoUserDetailsFoundInUserProfile.": "В профиле пользователя не найдено никаких данных о пользователе",
        "NoOpenSkillsAvailableForTheEPortfolioAccount.": "В страничке Portfolio нет открытых навыков"
-    },
-    "ExceptionFileDocumentAPI": {
+   },
+   "ExceptionFileDocumentAPI": {
        "AuthenticationFailed.": "Ошибка при идентификации",
        "GivenFilestoreIdIsIncorrect": "Указанный идентификатор хранилища файлов неверен",
        "GivenInstitutionIdIsIncorrect": "Указан неверный идентификатор учреждения",
@@ -201,6 +214,5 @@
        "TheEPortfolioAccountNotFoundIncorrect": "Страничка электронного портфолио не найдена / неверна",
        "UnableToGetTheFileStoreDetails": "Не удалось получить сведения о хранилище файлов",
        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "В данном отделении организации виртуальный каталог не настроен"
-    }
- }
- 
+   }
+}
