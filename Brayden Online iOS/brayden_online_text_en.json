@@ -93,7 +93,7 @@
         "Duration" : "Duration",
         "Cycle" : "Cycle",
         "CCF" : "CCF",
-        "OverallScore" : "Overall Score"
+        "OverallScore" : "Overall Score",
         "Compressions" : "Compressions",
         "AvgDepth" : "Avg. Depth",
         "AvgRate" : "Avg. Rate",
@@ -129,8 +129,7 @@
         "TooLittle" : "Too Little",
         "TooMuch" : "Too Much",
         "Incorrect" : "Incorrect",
-        "IncompleteRelease" : "Incomplete release",
-        "OverallScore" : "Overall Score"
+        "IncompleteRelease" : "Incomplete release"
     },
     "SettingPage" : {
         "Title" : "Setting",
@@ -150,7 +149,7 @@
     },
     "InformationPage" :{
         "Title" : "Information"
-    }
+    },
     "CheckDeviceStatus": {
         "WifiConnRequired": "You're offline. Check your internet connection.",
         "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
