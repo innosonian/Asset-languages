@@ -57,6 +57,7 @@
        "FingerPosition": "Положение пальца",
        "HandPosition": "Положение руки",
        "StartButton": "Начать обучение",
+       "StartAssesement" : "Начало",
        "StopButton": "Остановить обучение",
        "StopPopUpText": "Вы хотите остановить обучение ?",
        "ResultCalculatingPopOver": "Подсчет результатов",

@@ -58,6 +58,7 @@
         "HandPosition": "Position des mains",
         "StartButton": "Commencer  l'entrainement",
         "StopButton": "Arreter l'entrainement",
+        "StartAssesement" : "Commencer",
         "StopPopUpText": "Voulez-vous arreter cette session d'entrainement ?",
         "ResultCalculatingPopOver": "Calcul des Resultats",
         "Slow": "Lent",

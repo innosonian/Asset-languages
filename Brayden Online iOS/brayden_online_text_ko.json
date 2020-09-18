@@ -57,6 +57,7 @@
         "FingerPosition": "압박 위치",
         "HandPosition": "압박 위치",
         "StartButton": "훈련 시작",
+        "StartAssesement" : "시작",
         "StopButton": "훈련 중지",
         "StopPopUpText": "이 훈련을 중단합니까?",
         "ResultCalculatingPopOver": "결과 계산",
