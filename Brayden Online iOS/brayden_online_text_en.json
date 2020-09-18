@@ -29,7 +29,7 @@
         "BodyMessage" : "Touch adult or baby icon to connect manikin",
         "ExitButton" : "Exit",
         "LogOut" : "Are you sure\nyou want to log out?"
-    }, 
+    },
     "MenuManikinConnectionsPopUp": {
         "Title": "Manikin Connections"
     },
@@ -57,6 +57,7 @@
     "FingerPosition" : "Finger Position",
     "HandPosition" : "Hand Position",
     "StartButton" : "Start training",
+    "StartAssesement" : "Start",
     "StopButton" : "Stop training",
     "StopPopUpText" : "Do you want to stop this training session ?",
     "ResultCalculatingPopOver" : "Results Calculating",
