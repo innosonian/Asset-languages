@@ -25,9 +25,9 @@
     },
     "MenuHome": {
         "Title": "홈",
-        "Subtitle": "##########",
+        "Subtitle": "실시간 피드백과 함께 심폐소생술 또는 가슴압박, 인공호흡을 훈련하십시오.\n준비가 되면 심폐소생술 평가를 하십시오.",
         "BodyMessage": "성인 또는 아기 아이콘을 터치해 마네킹을 연결하십시오",
-        "ExitButton": "##########",
+        "ExitButton": "나가기",
         "LogOut": "정말로 로그아웃 하시겠습니까?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -77,8 +77,8 @@
         "NoOfCompressions": "압박 횟수",
         "VentilationVolume": "호흡량",
         "VentilationFrequency": "호흡 빈도",
-        "AvgDepth": "##########",
-        "AvgVolume": "##########",
+        "AvgDepth": "평균 깊이",
+        "AvgVolume": "평균 호흡량",
         "RescueNo": "구조 호흡 횟수",
         "RescueVolume": "구조 호흡 호흡량",
         "Pass": "합격",
@@ -125,7 +125,7 @@
         "TooFast": "너무 빠름",
         "TooSlow": "너무 느림",
         "TooFew": "너무 적음",
-        "TooMany": "##########",
+        "TooMany": "너무 많음",
         "TooLittle": "너무 적음",
         "TooMuch": "너무 많음",
         "Incorrect": "부정확",
@@ -146,14 +146,14 @@
         "UserConnectSwitchButton": "사용자가 마네킹을 연결하거나 연결 해제할 수 있습니다"
     },
     "VideoPage": {
-        "SkipButton": "##########"
+        "SkipButton": "다음"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "도움말"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "네트워크 오프라인입니다. 인터넷 연결을 확인하십시오.",
-        "BLEConnRequired": "Bluetooth is deactivated. Check your bluetooth setting."
+        "BLEConnRequired": "블루투스 연결이 필요합니다. 블루투스 설정을 확인하십시오."
     },
     "PopupPrompt": {
         "PopupTermOK": "OK",
