@@ -1,5 +1,4 @@
-name: Upload asset languages to s3
-
+name: S3 Sync
 on:
   push:
     branches:
@@ -9,13 +8,14 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: jakejarvis/s3-sync-action@master
-      with:
-        args: --acl public-read --follow-symlinks --delete
-      env:
-        AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: 'eu-central-1'   # optional: defaults to us-east-1
-        SOURCE_DIR: 'BraydenOnlineiOS'      # optional: defaults to entire repository
+      - uses: actions/checkout@master
+
+      - name: Sync to S3
+        uses: raulanatol/aws-s3-docker-action@master
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: 'eu-central-1'
+          AWS_BUCKET_NAME: ${{ secrets.AWS_S3_BUCKET }}
+          SOURCE: 'BraydenOnlineiOS'
+          TARGET: ''
