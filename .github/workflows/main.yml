@@ -17,5 +17,5 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'eu-central-1'
           AWS_BUCKET_NAME: ${{ secrets.AWS_S3_BUCKET }}
-          SOURCE: 'Brayden\ Online\ iOS'
+          SOURCE: 'Brayden_Online_iOS'
           TARGET: ''
