@@ -25,9 +25,9 @@
    },
    "MenuHome": {
        "Title": "Домашняя страница",
-       "Subtitle": "##########",
+        "Subtitle": "Варианты тренировки компрессии, вентиляции или полного СЛР с с отчетом  в реальном времени\n\nНачните оценочный тест  СЛР, когда будете готовы",
        "BodyMessage": "Дотроньтесь до иконки взрослого или ребенка, чтобы подключиться  к манекену",
-       "ExitButton": "##########",
+        "ExitButton": "Выход",
        "LogOut": "Выход из системы"
    },
    "MenuManikinConnectionsPopUp": {
@@ -57,7 +57,7 @@
        "FingerPosition": "Положение пальца",
        "HandPosition": "Положение руки",
        "StartButton": "Начать обучение",
-       "StartAssesement" : "Начало",
+        "StartAssesement" : "Начать оценочный тест ",
        "StopButton": "Остановить обучение",
        "StopPopUpText": "Вы хотите остановить обучение ?",
        "ResultCalculatingPopOver": "Подсчет результатов",
@@ -78,12 +78,12 @@
        "NoOfCompressions": "Количество \nкомпрессий",
        "VentilationVolume": "Вентиляция \nOбъем",
        "VentilationFrequency": "Вентиляция\nЧастота",
-       "AvgDepth": "##########",
-       "AvgVolume": "##########",
+        "AvgDepth": "Средний. Глубина",
+        "AvgVolume": "Средн. Объем",
        "RescueNo": "Количество спасательных дыханий",
        "RescueVolume": "Объем спасательных дыханий",
-       "Pass": "##########",
-       "Fail": "##########"
+        "Pass": "Прошло",
+        "Fail": "Попробуй снова"
    },
    "DetailedResultPage": {
        "Title": "Подробные результаты",
@@ -126,12 +126,11 @@
        "TooFast": "Слишком быстро",
        "TooSlow": "Слишком медленно",
        "TooFew": "Слишком мало",
-       "TooMany": "##########",
+        "TooMany": "Слишком много",
        "TooLittle": "Недобор",
        "TooMuch": "Перебор",
        "Incorrect": "Неверно",
-       "IncompleteRelease": "Неполное освобождение рук",
-       "Toomany": "Слишком много"
+        "IncompleteRelease": "Неполное освобождение рук"
    },
    "SettingPage": {
        "Title": "Настройка",
@@ -147,10 +146,10 @@
        "UserConnectSwitchButton": "Пользователи могут подключать или отключать манекены"
    },
    "VideoPage": {
-       "SkipButton": "##########"
+        "SkipButton": "Пропускать"
    },
    "InformationPage": {
-       "Title": "##########"
+        "Title": "Информация"
    },
    "CheckDeviceStatus": {
        "WifiConnRequired": "Вы не в сети, Проверьте подключение к Интернету.",
@@ -216,4 +215,4 @@
        "UnableToGetTheFileStoreDetails": "Не удалось получить сведения о хранилище файлов",
        "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "В данном отделении организации виртуальный каталог не настроен"
    }
-}
+ }

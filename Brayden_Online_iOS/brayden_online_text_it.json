@@ -21,13 +21,13 @@
         "TrialSignIn": "Usa la versione di prova senza accedere"
     },
     "DownloadContent": {
-        "Downloading": "##########"
+        "Downloading": "Scarica file video\nCi vogliono pochi minuti"
     },
     "MenuHome": {
         "Title": "Casa",
-        "Subtitle": "##########",
+        "Subtitle": "Opzioni di formazione di compressione, ventilazione o CPR completo con feedback in tempo reale\n\nInizia la valutazione della RCP quando sei pronto",
         "BodyMessage": "Tocca l'icona di un adulto o un bambino per collegare il manichino",
-        "ExitButton": "##########",
+        "ExitButton": "Uscita",
         "LogOut": "Sei sicuro \n di voler uscire?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -78,13 +78,12 @@
         "NoOfCompressions": "No. di\nCompressioni",
         "VentilationVolume": "Ventilazione\nVolume",
         "VentilationFrequency": "Ventilazione\nfrequenza",
-        "AvgDepth": "##########",
-        "AvgVolume": "##########",
-        "RescueNo": "##########",
+        "AvgDepth": "Media. Profondità",
+        "AvgVolume": "Media. Volume",
+        "RescueNo": "Salvataggio No.",
         "RescueVolume": "Salvataggio volume",
-        "Pass": "##########",
-        "Fail": "##########",
-        "RescueNo.": "Salvataggio No."
+        "Pass": "Passato",
+        "Fail": "Riprova"
     },
     "DetailedResultPage": {
         "Title": "Risultati dettagliati",
@@ -119,7 +118,7 @@
         "NoOfCompressions": "5\nNo. di\nCompressioni",
         "VentilationVolume": "7\nVentilazione\nVolume",
         "VentilationRate": "8\nVentilazione\nritmo",
-        "RescueNo": "##########",
+        "RescueNo": "Rescue No.",
         "RescueVolume": "Salvataggio volume",
         "Good": "Bene",
         "TooShallow": "Troppo superficiale",
@@ -127,13 +126,12 @@
         "TooFast": "Troppo veloce",
         "TooSlow": "Troppo lento ",
         "TooFew": "Troppo pochi",
-        "TooMany": "##########",
+        "TooMany": "Troppi",
         "TooLittle": "Troppo piccolo",
         "TooMuch": "Troppo",
         "Incorrect": "Errato",
         "IncompleteRelease": "Incompleto rilascioe",
-        "RescueNo.": "Salvataggio No.",
-        "Toomany": "Troppi"
+        "RescueNo.": "Salvataggio No."
     },
     "SettingPage": {
         "Title": "Impostazione",
@@ -149,10 +147,10 @@
         "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini"
     },
     "VideoPage": {
-        "SkipButton": "##########"
+        "SkipButton": "Salta"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Informazione"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "Sei offline. Controlla la connessione a Internet.",

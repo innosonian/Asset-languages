@@ -12,12 +12,12 @@
     "AdminLoginPage": {
         "ClientID": "Client ID",
         "Code": "Code",
-        "SignIn": "PROD Connection"
+        "SignIn": "Connection"
     },
     "UserLoginPage": {
         "Email": "E-Mail",
         "Password": "Mot de passe",
-        "SignIn": "PROD Connection",
+        "SignIn": "Connection",
         "TrialSignIn": "Version d'essaie sans connection"
     },
     "DownloadContent": {
@@ -25,9 +25,9 @@
     },
     "MenuHome": {
         "Title": "Accueil",
-        "Subtitle": "##########",
+        "Subtitle": "Options de compression, de ventilation ou de formation RCR complète avec rétroaction en temps réel\n\nCommencez l'évaluation de la RCR lorsque vous êtes prêt",
         "BodyMessage": "Toucher l'icône adulte ou bébé pour connecter le(s) mannequin(s)",
-        "ExitButton": "#####???#####",
+        "ExitButton": "Sortie",
         "LogOut": "Etes-vous sur\nde vouloir vous déconnectez"
     },
     "MenuManikinConnectionsPopUp": {
@@ -78,8 +78,8 @@
         "NoOfCompressions": "Nb. de\nCompressions",
         "VentilationVolume": "Volune\nde Ventilation",
         "VentilationFrequency": "Frequence\n de ventilation",
-        "AvgDepth": "##########",
-        "AvgVolume": "##########",
+        "AvgDepth": "Moyenne. Profondeur",
+        "AvgVolume": "Moy. Le volume",
         "RescueNo": "Reanim No.",
         "RescueVolume": "Reanim volume",
         "Pass": "Validé",
@@ -126,12 +126,11 @@
         "TooFast": "Trop rapide",
         "TooSlow": "Trop lent",
         "TooFew": "Trop peu",
-        "TooMany": "##########",
+        "TooMany": "Trop nombreux",
         "TooLittle": "Pas assez",
         "TooMuch": "Trop fort",
         "Incorrect": "Incorrect",
-        "IncompleteRelease": "Relachement incomplet",
-        "Toomany": "Trop nombreux"
+        "IncompleteRelease": "Relachement incomplet"
     },
     "SettingPage": {
         "Title": "Paramètre",
@@ -147,10 +146,10 @@
         "UserConnectSwitchButton": "Les utilisateurs peuvent connecter ou déconnecter les mannequins"
     },
     "VideoPage": {
-        "SkipButton": "##########"
+        "SkipButton": "Sauter"
     },
     "InformationPage": {
-        "Title": "##########"
+        "Title": "Information"
     },
     "CheckDeviceStatus": {
         "WifiConnRequired": "vous n'etes pas connecte. Verifiez la connection internet",
