@@ -42,7 +42,6 @@
         "Title" : "Training History",
         "SyncButton"  : "Sync all",
         "Target" : "Manikin",
-        "ManikinType" : "Manikin",
         "DateTimeTitle" : "Date / Time",
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Score",
