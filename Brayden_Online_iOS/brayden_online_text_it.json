@@ -220,5 +220,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
         "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+    },
+    "UpdatePopup": {
+        "Title": "È disponibile una nuova versione di %@. Aggiorna subito alla versione %@.",
+        "SubTitle": "Aggiornamento disponibile",
+        "NextTime": "La prossima volta",
+         "Update" : "Aggiorna"
     }
 }
