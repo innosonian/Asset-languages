@@ -28,6 +28,7 @@
         "Subtitle": "##########",
         "BodyMessage": "Dotknij ikony osoby dorosłej, dziecka lub niemowlęcia, aby podłączyć manekina",
         "ExitButton": "##########",
+        "LogOut": "##########",
         "LogOut ": "Czy na pewno\nchcesz się wylogować?"
     },
     "MenuManikinConnectionsPopUp": {
@@ -151,10 +152,16 @@
         "AllLocalRecords": "Wszystkie lokalne rekordy",
         "Deactivated": "##########",
         "UserConnectSwitchButton": "Użytkownicy mogą łączyć lub rozłączać manekiny",
-        " Deactivated": "Dezaktywowany"
+        "UpdatePopUp": "Pokaż powiadomienie o aktualizacji"
     },
     "VideoPage": {
-        "SkipButton": "##########"
+        "SkipButton" : "Pominąć",
+        "LoadingTitle1": "###",
+        "LoadingTitle2": "#####",
+        "LoadingTitle3": "#######",
+        "FailedToLoadTitle": "Nie udało się załadować",
+        "Skip": "Pominąć",
+        "Retry": "Spróbuj ponownie"
     },
     "InformationPage": {
         "Title": "##########"
@@ -223,5 +230,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "##########",
         "UnableToGetTheFileStoreDetails": "##########",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "##########"
+    },
+    "UpdatePopup": {
+        "Title": "Jest nowa wersja %@ do pobrania. Zaktualizuj do wersji %@.",
+        "SubTitle": "Aktualizacja dostępna",
+        "NextTime": "Następnym razem",
+         "Update" : "Zaktualizuj"
     }
 }

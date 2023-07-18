@@ -148,10 +148,17 @@
         "HowToSeeRecords": 	"Автоматический выход",
         "AllLocalRecords": "Все локальные записи",
         "Deactivated": "Деактивировано",
-        "UserConnectSwitchButton": "Пользователи могут подключать или отключать манекены"
+        "UserConnectSwitchButton": "Пользователи могут подключать или отключать манекены",
+        "UpdatePopUp": "Показать уведомление об обновлении"
     },
     "VideoPage": {
-        "SkipButton": "Пропускать"
+        "SkipButton" : "Пропускать",
+        "LoadingTitle1": "###",
+        "LoadingTitle2": "#####",
+        "LoadingTitle3": "#######",
+        "FailedToLoadTitle": "Ошибка загрузки",
+        "Skip": "Пропускать",
+        "Retry": "повторить попытку"
     },
     "InformationPage": {
         "Title": "Информация"
@@ -219,5 +226,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "Страничка электронного портфолио не найдена / неверна",
         "UnableToGetTheFileStoreDetails": "Не удалось получить сведения о хранилище файлов",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "В данном отделении организации виртуальный каталог не настроен"
+    },
+    "UpdatePopup": {
+        "Title": "Имеется в наличии новая версия %@. Пожалуйста, обновите до версии %@ сейчас.",
+        "SubTitle": "Доступно обновление",
+        "NextTime": "В следующий раз",
+         "Update" : "Обновить"
     }
  }

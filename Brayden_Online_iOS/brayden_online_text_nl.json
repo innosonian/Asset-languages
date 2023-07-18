@@ -148,10 +148,17 @@
         "HowToSeeRecords" : "Automatisch uitloggen",
         "AllLocalRecords" : "Alle plaatselijke records",
         "Deactivated" : "Gedeactiveerd",
-        "UserConnectSwitchButton" : "Gebruikers kunnen de dummy's aansluiten of loskoppelen"
+        "UserConnectSwitchButton" : "Gebruikers kunnen de dummy's aansluiten of loskoppelen",
+        "UpdatePopUp": "Toon update-melding"
     },
     "VideoPage" : {
-        "SkipButton" : "Overslaan"
+        "SkipButton" : "Overslaan",
+        "LoadingTitle1": "###",
+        "LoadingTitle2": "#####",
+        "LoadingTitle3": "#######",
+        "FailedToLoadTitle": "Laden mislukt",
+        "Skip": "Overslaan",
+        "Retry": "Opnieuw proberen"
     },
     "InformationPage" :{
         "Title" : "Informatie"
@@ -219,5 +226,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "De ePortfolio-rekening niet gevonden/onjuist.",
         "UnableToGetTheFileStoreDetails": "Niet in staat om de File Store Details te krijgen.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Het huidige organisatieknooppunt heeft geen virtuele directory geconfigureerd."
+    },
+    "UpdatePopup": {
+        "Title": "Er is een nieuwe versie van %@ beschikbaar. Je kunt nu updaten naar versie %@.",
+        "SubTitle": "Update beschikbaar",
+        "NextTime": "Volgende keer",
+         "Update" : "Updaten"
     }
 }

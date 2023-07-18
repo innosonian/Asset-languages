@@ -148,10 +148,17 @@
         "HowToSeeRecords" : "Automatisches Ausloggen",
         "AllLocalRecords" : "Alle lokalen Aufzeichnungen",
         "Deactivated" : "Deaktivieren",
-        "UserConnectSwitchButton" : "Benutzer können Gerät verbinden oder trennen"
+        "UserConnectSwitchButton" : "Benutzer können Gerät verbinden oder trennen",
+        "UpdatePopUp": "Zeige Update-Benachrichtigung"
     },
     "VideoPage" : {
-        "SkipButton" : "Überspringen"
+        "SkipButton" : "Überspringen",
+        "LoadingTitle1": "###",
+        "LoadingTitle2": "#####",
+        "LoadingTitle3": "#######",
+        "FailedToLoadTitle": "Laden fehlgeschlagen",
+        "Skip": "Überspringen",
+        "Retry": "Versuche es noch einmal"
     },
     "InformationPage" :{
         "Title" : "Information"
@@ -219,5 +226,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "Das ePortfolio-Konto wurde nicht gefunden/ist falsch.",
         "UnableToGetTheFileStoreDetails": "Informationen zum Dateispeicher können nicht erhalten werden.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "Auf dem aktuellen Organisation Knoten ist kein virtuelles Verzeichnis konfiguriert."
+    },
+    "UpdatePopup": {
+        "Title": "Es ist eine neue Version von %@ erhältlich. Bitte aktualisiere jetzt auf die Version %@.",
+        "SubTitle": "Update erhältlich",
+        "NextTime": "Später",
+        "Update" : "Update"
     }
 }

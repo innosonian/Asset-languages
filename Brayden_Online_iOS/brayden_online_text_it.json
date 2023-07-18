@@ -149,10 +149,17 @@
         "HowToSeeRecords": "Disconnessione automatica",
         "AllLocalRecords": "Tutti i record locali",
         "Deactivated": "Disattivato",
-        "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini"
+        "UserConnectSwitchButton": "Gli utenti possono connettere o disconnettere manichini",
+        "UpdatePopUp": "Mostra la notifica di aggiornamento"
     },
     "VideoPage": {
-        "SkipButton": "Salta"
+        "SkipButton" : "Salta",
+        "LoadingTitle1": "###",
+        "LoadingTitle2": "#####",
+        "LoadingTitle3": "#######",
+        "FailedToLoadTitle": "Error al cargar",
+        "Skip": "Salta",
+        "Retry": "Intenta otra vez"
     },
     "InformationPage": {
         "Title": "Informazione"
@@ -220,5 +227,11 @@
         "TheEPortfolioAccountNotFoundIncorrect": "The ePortfolio account not found/incorrect.",
         "UnableToGetTheFileStoreDetails": "Unable to get the File Store Details.",
         "TheCurrentOrganizationNodeDoesNotHaveAVirtualDirectoryConfigured": "The current organization node does not have a virtual directory configured."
+    },
+    "UpdatePopup": {
+        "Title": "A new version of %@ is available. Please update to version %@ now.",
+        "SubTitle": "Update Available",
+        "NextTime": "Next time",
+        "Update" : "Update"
     }
 }
