@@ -116,7 +116,6 @@
         "CompressionRate": "3\nCompressioni\nritmo",
         "CompressionRelease": "2\nCompressioni\nrilascio",
         "CompressionDepth": "1\nCompressioni\nprofondita",
-        "NoOfCompressions": "5\nNo. di\ncompressioni",
         "VentilationVolume": "7\nVentilazione\nvolume",
         "VentilationRate": "8\nVentilazione\nfrequenza",
         "RescueNo": "Rescue No.",
@@ -154,9 +153,9 @@
     },
     "VideoPage": {
         "SkipButton" : "Salta",
-        "LoadingTitle1": "###",
-        "LoadingTitle2": "#####",
-        "LoadingTitle3": "#######",
+        "LoadingTitle1": "Caricamento video",
+        "LoadingTitle2": "Preparazione alla riproduzione",
+        "LoadingTitle3": "Attendere un momento, per favore",
         "FailedToLoadTitle": "Error al cargar",
         "Skip": "Salta",
         "Retry": "Intenta otra vez"
