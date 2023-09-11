@@ -46,7 +46,12 @@
         "OperationTitle" : "Uitvoering",
         "ScoreTitle" : "Score",
         "OptionsTitle" : "Opties",
-        "IDTitle"  : "ID"
+        "IDTitle"  : "ID",
+        "SyncPopUp": {
+            "Title": "Resultaatsynchronisatie opnieuw proberen...",
+            "SubTitle": "Momenteel bezig met synchroniseren. Tik hieronder om een lijst van tot nu toe succesvol gesynchroniseerde records te bekijken.",
+            "Stop": "Stoppen"
+        }
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "Aantal compressies",
@@ -65,7 +70,16 @@
         "Slow" : "Langzaam",
         "Deep" : "Diep",
         "Fast" : "Snel",
-        "Shallow" : "Ondiep"
+        "Shallow" : "Ondiep",
+        
+        "FailedPopUp": {
+            "Title": "Fout bij het ophalen van resultaatsamenvatting",
+            "SubTitle": "Er was een probleem met het huidige proces voor het samenvatten van resultaten.",
+            "CanRetry": "U kunt opnieuw proberen te synchroniseren vanaf het scherm met de lijst van trainingsrecords.",
+            "ErrorByNetwork": "Controleer uw netwerkstatus en probeer het opnieuw.",
+            "GoToHome": "Terug naar het begin",
+            "Retry": "Opnieuw"
+        }
     },
     "OverallResultPage": {
         "Title" : "Algehele\nprestatie",
@@ -73,9 +87,9 @@
         "FingerPosition" : "Vinger\npositie",
         "HandPosition" : "Hand\npositie",
         "ScoreOfCCF" : "CCF\nScore",
-        "CompressionRate" : "Compressiesnelheid",
-        "CompressionRelease" : "Compressieverlossing",
-        "CompressionDepth" : "Compressiediepte",
+        "CompressionRate" : "Compressie\nfrequentie",
+        "CompressionRelease" : "Compressie\npauze",
+        "CompressionDepth" : "Compressie\ndiepte",
         "NoOfCompressions" : "Aantal\ncompressies",
         "VentilationVolume" : "Beademing\nvolume",
         "VentilationFrequency" : "Beademing\nfrequentie",
@@ -97,28 +111,28 @@
         "CCF" : "CCF",
         "OverallScore" : "Algehele score",
         "Compressions" : "Compressies",
-        "AvgDepth" : "Gemiddelde diepte",
-        "AvgRate" : "Gemiddelde snelheid",
+        "AvgDepth" : "Gem. diepte",
+        "AvgRate" : "Gem. snelheid",
         "Count" : "Telling",
-        "AvgTimeOff" : "Gemiddelde Time-off",
-        "FingerPositionAccuracy" : "Nauwkeurigheid van de vingerpositie",
-        "HandPositionAccuracy" : "Nauwkeurigheid van de handpositie",
+        "AvgTimeOff" : "Gemi. Time-off",
+        "FingerPositionAccuracy" : "Correcte vingerpositie",
+        "HandPositionAccuracy" : "Correcte handpositie",
         "RescueVentilations" : "Beademings reddingen",
         "Ventilations" : "Beademingen",
-        "AvgVolume" : "Gemiddeld volume",
+        "AvgVolume" : "Gem. volume",
         "Period" : "Periode",
         "Total" : "Totaal",
-        "AvgSpeed" : "Gemiddelde snelheid",
+        "AvgSpeed" : "Gem. snelheid",
         "TempGraphText" : "Meer informatie (kwaliteit van de reanimatie) is beschikbaar via 'Brayden Online Expert'",
         "FingerPosition" : "6\nVinger positie",
         "HandPosition" : "6\nHand positie",
         "ScoreOfCCF" : "4\nScore van de\nCCF",
-        "CompressionRate" : "3\nCompressie\nsnelheid",
-        "CompressionRelease" : "2\nCompressieverlossing",
+        "CompressionRate" : "3\nCompressie\nfrequentie",
+        "CompressionRelease" : "2\nCompressie\npauze",
         "CompressionDepth" : "1\nCompressie\ndiepte",
         "NoOfCompressions" : "5\nNummer van\ncompressies",
         "VentilationVolume" : "7\nBeademings\nvolume",
-        "VentilationRate" : "8\nBeademings\nsnelheid",
+        "VentilationRate" : "8\nBeademings\nfrequentie",
         "RescueNo" : "Reddings aantal",
         "RescueVolume" : "Reddings volume",
         "Good" : "Goed",
@@ -198,7 +212,11 @@
         "NetErrUploadFailTitle": "Upload fout",
         "NetErrUploadFailContent": "Storing in de inhoud van de trein uploaden. Controleer de netwerkverbinding",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding"
+        "NetErrCommonContent": "Geen resultaat geboekt. Controleer de netwerkverbinding",
+        "NetworkError": {
+            "Title": "Netwerkfout",
+            "SubTitle": "Uw apparaat is niet verbonden met internet. Controleer de netwerkstatus."
+        }
     },
     "Report": {
         "OverallResult": "Algeheel resultaat"
@@ -229,9 +247,8 @@
     },
     "UpdatePopup": {
         "Title": "Er is een nieuwe versie van %@ beschikbaar. Je kunt nu updaten naar versie %@.",
-        "SubTitle": "Update beschikbaar",
+        "SubTitle": "Deze melding kan op elk moment worden uitgeschakeld in de instellingen.",
         "NextTime": "Volgende keer",
          "Update" : "Updaten"
     }
 }
- 

@@ -46,7 +46,12 @@
         "OperationTitle": "Operazione",
         "ScoreTitle": "Punto",
         "OptionsTitle": "Opzioni",
-        "IDTitle": "ID"
+        "IDTitle": "ID",
+        "SyncPopUp": {
+            "Title": "Ritentando la sincronizzazione dei risultati...",
+            "SubTitle": "Attualmente in sincronizzazione. Tocca sotto per visualizzare l'elenco dei record sincronizzati con successo fino a questo punto.",
+            "Stop": "Stop"
+        }
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "N. di compressioni",
@@ -65,7 +70,16 @@
         "Slow": "Piano",
         "Deep": "Profondo",
         "Fast": "Veloce",
-        "Shallow": "Superficiale"
+        "Shallow": "Superficiale",
+        
+        "FailedPopUp": {
+            "Title": "Fallimento del recupero del riassunto dei risultati",
+            "SubTitle": "C'è stato un problema con il processo attuale di riassunto dei risultati.",
+            "CanRetry": "Puoi riprovare la sincronizzazione dalla schermata dell'elenco dei record di allenamento.",
+            "ErrorByNetwork": "Controlla lo stato della tua rete e riprova.",
+            "GoToHome": "Torna all'inizio",
+            "Retry": "Riprova"
+        }
     },
     "OverallResultPage": {
         "Title": "Generali\nPrestazione",
@@ -199,7 +213,11 @@
         "NetErrUploadFailTitle": "Errore di caricamento",
         "NetErrUploadFailContent": "Caricamento del contenuto del treno non riuscito. Controlla la connessione di rete",
         "NetErrCommonTitle": "Errore",
-        "NetErrCommonContent": "Impossibile ottenere il risultato. Verificare la connessione di rete"
+        "NetErrCommonContent": "Impossibile ottenere il risultato. Verificare la connessione di rete",
+        "NetworkError": {
+            "Title": "Errore di rete",
+            "SubTitle": "Il tuo dispositivo non è connesso a internet. Controlla lo stato della rete."
+        }
     },
     "Report": {
         "OverallResult": ""
@@ -230,7 +248,7 @@
     },
     "UpdatePopup": {
         "Title": "A new version of %@ is available. Please update to version %@ now.",
-        "SubTitle": "Update Available",
+        "SubTitle": "Questa notifica può essere disattivata in qualsiasi momento nelle impostazioni.",
         "NextTime": "Next time",
         "Update" : "Update"
     }

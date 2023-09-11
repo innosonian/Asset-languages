@@ -46,7 +46,12 @@
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Punktzahl",
         "OptionsTitle" : "Optionen",
-        "IDTitle"  : "Identifizierung"
+        "IDTitle"  : "Identifizierung",
+        "SyncPopUp": {
+            "Title": "Retrying result sync... ",
+            "SubTitle": "Wird gerade synchronisiert. Tippen Sie unten, um eine Liste der bis zu diesem Zeitpunkt erfolgreich synchronisierten Datensätze anzuzeigen.",
+            "Stop": "Halt"
+        }
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions" : "Anzahl der Kompressionen",
@@ -65,7 +70,16 @@
         "Slow" : "Langsam",
         "Deep" : "Tief",
         "Fast" : "Schnell",
-        "Shallow" : "zu flach"
+        "Shallow" : "zu flach",
+        
+        "FailedPopUp": {
+            "Title": "Ergebniszusammenfassung Fehlschlag",
+            "SubTitle": "Es gab ein Problem mit dem aktuellen Ergebniszusammenfassungsprozess.",
+            "CanRetry": "Sie können die Synchronisierung über den Bildschirm mit der Liste der Trainingsverlauf erneut versuchen.",
+            "ErrorByNetwork": "Bitte überprüfen Sie Ihren Netzwerkstatus und versuchen Sie es erneut.",
+            "GoToHome": "Kehren Sie zum Start zurück",
+            "Retry": "Wiederholen"
+        }
     },
     "OverallResultPage" : {
         "Title" : "Gesamt\nertung",
@@ -198,7 +212,11 @@
         "NetErrUploadFailTitle": "Upload Fehler",
         "NetErrUploadFailContent": "Fehler beim Upload des Inhalts. Bitte überprüfen Sie Ihre Netzwerkverbindung",
         "NetErrCommonTitle": "Fehler",
-        "NetErrCommonContent": "Ergebnis konnte nicht erhalten werden. Bitte überprüfen Sie die Netzwerkverbindung"
+        "NetErrCommonContent": "Ergebnis konnte nicht erhalten werden. Bitte überprüfen Sie die Netzwerkverbindung",
+        "NetworkError": {
+            "Title": "Netzwerkfehler",
+            "SubTitle": "Ihr Gerät ist nicht mit dem Internet verbunden. Bitte überprüfen Sie den Netzwerkstatus."
+        }
     },
     "Report": {
         "OverallResult": "Gesamtergebnis"
@@ -229,7 +247,7 @@
     },
     "UpdatePopup": {
         "Title": "Es ist eine neue Version von %@ erhältlich. Bitte aktualisiere jetzt auf die Version %@.",
-        "SubTitle": "Update erhältlich",
+        "SubTitle": "Diese Benachrichtigung kann jederzeit in den Einstellungen deaktiviert werden.",
         "NextTime": "Später",
         "Update" : "Update"
     }

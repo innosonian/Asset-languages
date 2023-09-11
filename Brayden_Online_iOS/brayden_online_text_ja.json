@@ -41,11 +41,16 @@
     "TrainningHistoryPage" : {
         "Title" : "Training History",
         "SyncButton"  : "Sync all",
-        "IDTitle"  : "ID",
         "DateTimeTitle" : "Date / Time",
         "OperationTitle" : "Operation",
         "ScoreTitle" : "Score",
-        "OptionsTitle" : "Options"
+        "OptionsTitle" : "Options",
+        "IDTitle": "ID",
+        "SyncPopUp": {
+            "Title": "Retrying result sync… ",
+            "SubTitle": "Currently syncing. Touch below to view list of successfully synchronized records up to this point.",
+            "Stop": "Stop"
+        }
     },
     "RealTimeTrainingPage" :{
         "NoOfCompressions" : "No. of compressions",
@@ -64,7 +69,16 @@
         "Slow" : "Slow",
         "Deep" : "Deep",
         "Fast" : "Fast",
-        "Shallow" : "Shallow"
+        "Shallow" : "Shallow",
+        
+        "FailedPopUp": {
+            "Title": "Result Summary Retrieval Failure",
+            "SubTitle": "There was an issue with current result summary process.",
+            "CanRetry": "You can try again sync from training record list screen.",
+            "ErrorByNetwork": "Please check your network status and try again.",
+            "GoToHome": "Return to the start",
+            "Retry": "Retry"
+        }
     },
     "OverallResultPage" : {
         "Title" : "Overall\nPerformance",
@@ -137,6 +151,10 @@
         "Manufacture" : "Manufacture",
         "Language" : "Language",
         "LanguageValue" : "English",
+        "VideoMode" : "Video Mode",
+        "Streaming" : "Streaming",
+        "Downloading" : "Downloading",
+        "Infinite" : "infinite",
         "AppVersion" : "Application Version",
         "ApplyButton" : "Apply new menu",
         "SwitchButton" : "Switch client",
@@ -193,7 +211,11 @@
         "NetErrUploadFailTitle": "Upload Error",
         "NetErrUploadFailContent": "Upload train content failure. Please check the network connection",
         "NetErrCommonTitle": "Error",
-        "NetErrCommonContent": "Failed to get result. Please check the network connection"
+        "NetErrCommonContent": "Failed to get result. Please check the network connection",
+        "NetworkError": {
+            "Title": "Network Error",
+            "SubTitle": "Your device is not connected to the internet. Please check the network status."
+        }
     },
     "Report": {
         "OverallResult": ""
@@ -224,7 +246,7 @@
     },
     "UpdatePopup": {
         "Title": "A new version of %@ is available. Please update to version %@ now.",
-        "SubTitle": "Update Available",
+        "SubTitle": "この通知はいつでも設定画面で無効にできます。",
         "NextTime": "Next time",
         "Update" : "Update"
     }

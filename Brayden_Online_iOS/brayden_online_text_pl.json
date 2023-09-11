@@ -46,7 +46,12 @@
         "OperationTitle": "Działanie",
         "ScoreTitle": "Wynik",
         "OptionsTitle": "Opcje",
-        "IDTitle": "Identyfikator"
+        "IDTitle": "Identyfikator",
+        "SyncPopUp": {
+            "Title": "Ponowna próba synchronizacji wyników… ",
+            "SubTitle": "Trwa synchronizacja. Dotknij poniżej, aby wyświetlić listę pomyślnie zsynchronizowanych rekordów.",
+            "Stop": "Stop"
+        }
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "Brak ucisków",
@@ -65,7 +70,16 @@
         "Slow": "Wolniej",
         "Deep": "Głębokie",
         "Fast": "Szybciej",
-        "Shallow": "Lżej"
+        "Shallow": "Lżej",
+        
+        "FailedPopUp": {
+            "Title": "Niepowodzenie pobierania podsumowania wyników",
+            "SubTitle": "Wystąpił problem z bieżącym procesem podsumowania wyników.",
+            "CanRetry": "Możesz spróbować ponownie zsynchronizować z listy rekordów szkoleniowych na ekranie.",
+            "ErrorByNetwork": "Sprawdź swój status sieci i spróbuj ponownie.",
+            "GoToHome": "Powrót do początku",
+            "Retry": "Ponów próbę"
+            }
     },
     "OverallResultPage": {
         "Title": "Ogólnie\nWydajność",
@@ -198,7 +212,11 @@
         "NetErrUploadFailTitle": "Błąd przesyłania danych",
         "NetErrUploadFailContent": "Bląd ładowania zawartości. Proszę sprawdzić połączenie sieciowe.",
         "NetErrCommonTitle": "Błąd",
-        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe"
+        "NetErrCommonContent": "Nie udało się uzyskać wyniku. Sprawdź połączenie sieciowe",
+        "NetworkError": {
+            "Title": "Błąd sieci",
+            "SubTitle": "Twoje urządzenie nie jest połączone z Internetem. Sprawdź stan sieci."
+            }
     },
     "Report": {
         "OverallResult": ""
@@ -229,7 +247,7 @@
     },
     "UpdatePopup": {
         "Title": "Jest nowa wersja %@ do pobrania. Zaktualizuj do wersji %@.",
-        "SubTitle": "Aktualizacja dostępna",
+        "SubTitle": "To powiadomienie można wyłączyć w dowolnym momencie w ustawieniach.",
         "NextTime": "Następnym razem",
          "Update" : "Zaktualizuj"
     }

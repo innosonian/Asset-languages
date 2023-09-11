@@ -46,7 +46,12 @@
         "OperationTitle": "Opération",
         "ScoreTitle": "Score",
         "OptionsTitle": "Options",
-        "IDTitle": "ID"
+        "IDTitle": "ID",
+        "SyncPopUp": {
+            "Title": "Nouvelle tentative de synchronisation des résultats...",
+            "SubTitle": "Synchronisation en cours. Touchez ci-dessous pour afficher la liste des enregistrements synchronisés avec succès jusqu'à présent.",
+            "Stop": "Arrêter"
+        }
     },
     "RealTimeTrainingPage": {
         "NoOfCompressions": "Nb. de compressions",
@@ -65,7 +70,17 @@
         "Slow": "Lent",
         "Deep": "Trop profond",
         "Fast": "Rapide",
-        "Shallow": "Pas assez profond"
+        "Shallow": "Pas assez profond",
+        "failedTitle": "",
+        
+        "FailedPopUp": {
+            "Title": "Échec de la récupération du résumé des résultats",
+            "SubTitle": "Il y a eu un problème avec le processus actuel de résumé des résultats.",
+            "CanRetry": "Vous pouvez réessayer la synchronisation à partir de l'écran de liste d'enregistrements d'entraînement.",
+            "ErrorByNetwork": "Veuillez vérifier votre état de réseau et réessayer.",
+            "GoToHome": "Retour au début",
+            "Retry": "Réessayer"
+        }
     },
     "OverallResultPage": {
         "Title": "Performance\nGlobale",
@@ -198,7 +213,11 @@
         "NetErrUploadFailTitle": "Upload Erreur",
         "NetErrUploadFailContent": "Upload train content failure. Verifiez connection internet",
         "NetErrCommonTitle": "Erreur",
-        "NetErrCommonContent": "Echec d'obtention des resultats. Verifiez la connection internet"
+        "NetErrCommonContent": "Echec d'obtention des resultats. Verifiez la connection internet",
+        "NetworkError": {
+            "Title": "Erreur réseau",
+            "SubTitle": "Votre appareil n'est pas connecté à internet. Veuillez vérifier l'état du réseau."
+        }
     },
     "Report": {
         "OverallResult": ""
@@ -229,7 +248,7 @@
     },
     "UpdatePopup": {
         "Title": "Une nouvelle version de %@ est disponible. Veuillez passer à la version %@ maintenant.",
-        "SubTitle": "Mise à jour disponible",
+        "SubTitle": "Cette notification peut être désactivée à tout moment dans les paramètres.",
         "NextTime": "La prochaine fois",
          "Update" : "Mettre à jour"
     }
